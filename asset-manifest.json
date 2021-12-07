@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/integradorafin/static/css/main.e48f8e41.chunk.css",
+    "main.js": "/integradorafin/static/js/main.b587f6db.chunk.js",
+    "main.js.map": "/integradorafin/static/js/main.b587f6db.chunk.js.map",
+    "runtime-main.js": "/integradorafin/static/js/runtime-main.263f4283.js",
+    "runtime-main.js.map": "/integradorafin/static/js/runtime-main.263f4283.js.map",
+    "static/css/2.12f90ea2.chunk.css": "/integradorafin/static/css/2.12f90ea2.chunk.css",
+    "static/js/2.883923cb.chunk.js": "/integradorafin/static/js/2.883923cb.chunk.js",
+    "static/js/2.883923cb.chunk.js.map": "/integradorafin/static/js/2.883923cb.chunk.js.map",
+    "index.html": "/integradorafin/index.html",
+    "static/css/2.12f90ea2.chunk.css.map": "/integradorafin/static/css/2.12f90ea2.chunk.css.map",
+    "static/css/main.e48f8e41.chunk.css.map": "/integradorafin/static/css/main.e48f8e41.chunk.css.map",
+    "static/js/2.883923cb.chunk.js.LICENSE.txt": "/integradorafin/static/js/2.883923cb.chunk.js.LICENSE.txt",
+    "static/media/act1.39be997c.jpg": "/integradorafin/static/media/act1.39be997c.jpg",
+    "static/media/juegos.4247d776.png": "/integradorafin/static/media/juegos.4247d776.png",
+    "static/media/portada.7316f6c7.mp4": "/integradorafin/static/media/portada.7316f6c7.mp4",
+    "static/media/video1.12bb04e9.jpeg": "/integradorafin/static/media/video1.12bb04e9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.263f4283.js",
+    "static/css/2.12f90ea2.chunk.css",
+    "static/js/2.883923cb.chunk.js",
+    "static/css/main.e48f8e41.chunk.css",
+    "static/js/main.b587f6db.chunk.js"
+  ]
+}
